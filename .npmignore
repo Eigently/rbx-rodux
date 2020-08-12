@@ -1,4 +1,4 @@
 *
 !index.d.ts
-!rodux/lib/*.lua
+!rodux/src/*.lua
 *.spec.lua
